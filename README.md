@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Привет, я Азамат!
+Я Java Backend Developer, превращающий идеи в работающие API!
+Люблю создавать серверную логику на Spring Boot,
+проектировать базы данных и решать интересные технические задачи.
+Постоянно изучаю новые подходы к построению backend-систем.
 
-<!--
-**IsakovAzamat/IsakovAzamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Открыт к стажировкам и новым возможностям!
 
-Here are some ideas to get you started:
+🛠 Мои навыки
+Backend:
+Java Core, Spring Boot, Spring Security
+REST API, Hibernate/JPA
+JWT Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Базы данных:
+PostgreSQL, SQLite
+
+Инструменты:
+Git, GitHub, IntelliJ IDEA
+Postman (тестирование API)
+
+Дополнительно:
+Python (FastAPI, SQLAlchemy)
+Linux
+PLC Programming (TIA Portal, ОВЕН), Arduino
+
+🌱 Что я изучаю
+Микросервисную архитектуру и Docker
+Spring Cloud и распределенные системы
+Продвинутые паттерны проектирования
+Тестирование (JUnit, Mockito)
+
+📫 Как со мной связаться
+Email: azamat.isakov.dev@gmail.com
+Telegram: @Tospxce
+LinkedIn: linkedin.com/in/azamat-isakov
